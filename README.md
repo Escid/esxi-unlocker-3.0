@@ -1,4 +1,4 @@
-# macOS Unlocker v3.0 for VMware ESXi
+# macOS Unlocker v3.0.5 for VMware ESXi
 
 ## Download ESXi 7.0 (integrated Unlocker and SLIC)
 
@@ -11,4 +11,4 @@
 
 **The repository has been permanently moved to [esxi-unlocker](https://github.com/netgc/esxi-unlocker)**.
 
-Powered by sysin.org
+Powered by [sysin.org](https://sysin.org/)
